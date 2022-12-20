@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** - https://wonderful-coast-0f0973e00.2.azurestaticapps.net
-**project demo video link** - 
+**project demo video link** - https://www.youtube.com/watch?v=8D4Oq_Ds_a8
 
 ## Azure technologies used for Project
 
